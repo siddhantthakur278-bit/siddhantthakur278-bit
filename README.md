@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
 <div align="center"><h2 style="text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%2C+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
 <!-- <h1 align="center">Hi 👋, I'm Siddhant Kumar Thakur</h1> -->
@@ -117,3 +116,5 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/siddhantthakur278-bit/count.svg" />
 </p>
+
+[![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
