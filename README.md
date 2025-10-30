@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
 <div align="center"><h2 style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%2C+I'm+Aashish+Jha+" alt="Typing SVG" /></h2></div>
-<!-- <h1 align="center">Hi 👋, I'm Aashish Jha</h1> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%2C+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
+<!-- <h1 align="center">Hi 👋, I'm Siddhant Kumar Thakur</h1> -->
 <h3 align="center">I’m a passionate developer, a dedicated coder, tech enthusiast and a technology lover who enjoys creating and solving problems.</h3>
 
 <img align="right" alt="coding" width="370" height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aashish-jha-4760a1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish-jha-4760a1323" height="30" width="40" /></a>
-<a href="https://instagram.com/_aashishjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aashishjha" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aashish_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aashish_jha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddhant-kumar-thakur-548ab3311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="siddhant-kumar-thakur-548ab331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/siddhantthakur278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddhant" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
