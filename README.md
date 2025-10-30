@@ -108,8 +108,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhantthakur278-bit&theme=aura" alt="GitHub Stats" width="45%" />
 </div>
 
-<!--snake GIF-->
-![snake gif](https://github.com/siddhantthakur278-bit/siddhantthakur278-bit/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
 
 <p align="center"> 
   Visitor count<br>
