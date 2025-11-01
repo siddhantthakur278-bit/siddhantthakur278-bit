@@ -112,6 +112,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=web+dev+enthusiast+ofcourse;codeforce+leetcode+coding+freak)](https://git.io/typing-svg)
 
+![Metrics](https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/main/github-metrics.svg)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&show_icons=true&theme=tokyonight&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantthakur278-bit&theme=tokyonight" height="165" />
