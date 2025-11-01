@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Guys 👋
 
 <!--
 **siddhantthakur278-bit/siddhantthakur278-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"><h2 style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%2C+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=(LetsGo)+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
 <!-- <h1 align="center">Hi 👋, I'm Siddhant Kumar Thakur</h1> -->
-<h3 align="center">I’m a passionate developer, a dedicated coder, tech enthusiast and a technology lover who enjoys creating and solving problems.</h3>
+<h3 align="center">Dive in with me in the world of craziness through web dev and problem solving 
+</h3>
 
-<img align="right" alt="coding" width="370" height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="coding" width="370" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantthakur278-bit&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-jha-11" /> </p> -->
 
@@ -78,18 +81,17 @@ Here are some ideas to get you started:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="siddhantthakir278-bit" /></p>
 
-<br><br><br><br><br><br><br><br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="siddhantthakur278-bit" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddhantthakur278-bit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br><br><br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="siddhantthakur278-bit" /></p>
 ![](https://nirzak-streak-stats.vercel.app/?user=siddhantthakur278-bit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--Cards-->
- <br><br><br><br><br><br><div style="display: flex; justify-content: space-between;">
+ <br><br><<div style="display: flex; justify-content: space-between;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhantthakur278-bit&theme=aura" width="45%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhantthakur278-bit&theme=aura" alt="Most Commit Language" width="45%" />
 </div>
