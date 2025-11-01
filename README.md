@@ -100,11 +100,13 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhantthakur278-bit&theme=aura" alt="GitHub Stats" width="45%" />
 </div>
 
-![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/siddhantthakur278-bit/count.svg" />
 </p>
+
+![Snake animation](https://github.com/siddhantthakur278-bit/siddhantthakur278-bit/blob/output/github-contribution-grid-snake.svg)
 
 [![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
