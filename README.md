@@ -123,6 +123,13 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 
 [![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0082FF&height=120&section=footer"/>
+</p>
