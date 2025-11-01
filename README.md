@@ -1,3 +1,4 @@
+🌤️ Weather in Pune: `30°C` | ☀️ Sunny
 ## Hello Guys 👋
 
 <!--
@@ -114,10 +115,21 @@ Here are some ideas to get you started:
 
 ![Metrics](https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/main/github-metrics.svg)
 
+### 🔭 Currently Working On
+- Building an AI chatbot 🤖
+- Designing hackathon project 🎯
+- Improving my DSA streak 📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&show_icons=true&theme=tokyonight&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantthakur278-bit&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -127,8 +139,22 @@ Here are some ideas to get you started:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddhantthakur278-bit&repo=siddhantthakur278-bit&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
+
+![Stars](https://img.shields.io/github/stars/siddhantthakur278-bit?style=flat&logo=github)
+![Followers](https://img.shields.io/github/followers/siddhantthakur278-bit?style=flat&logo=github)
+![Repos](https://badges.pufler.dev/repos/siddhantthakur278-bit)
+
 
 [![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<img src="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/main/profile-3d-contrib/profile-night-green.svg" width="700">
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0082FF&height=120&section=footer"/>
