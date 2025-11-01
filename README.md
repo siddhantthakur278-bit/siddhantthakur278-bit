@@ -101,17 +101,25 @@ Here are some ideas to get you started:
 </div>
 
 
+![Visitors](https://komarev.com/ghpvc/?username=siddhantthakur278-bit&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/siddhantthakur278-bit/count.svg" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph.svg">
 </picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=web+dev+enthusiast+ofcourse;codeforce+leetcode+coding+freak)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantthakur278-bit&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&layout=compact&theme=tokyonight" />
+</p>
 
 
 [![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
