@@ -107,7 +107,11 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/siddhantthakur278-bit/count.svg" />
 </p>
 
-![Pacman](https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph.svg">
+</picture>
 
 
 [![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
