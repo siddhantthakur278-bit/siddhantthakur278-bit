@@ -200,7 +200,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="siddhantthakir278-bit" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=siddhantthakur278-bit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddhantthakur278-bit&theme=onedark)](https://github.com/siddhantthakur278-bit/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&layout=compact&theme=tokyonight" />
