@@ -1,3 +1,14 @@
+<p>
+<img align="right" alt="coding" width="300" height="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+</p>
+
+
+
+
+
+
+
+
 🌤️ Weather in Pune: `30°C` | ☀️ Sunny
 Good Morning 🌞 / Good Afternoon ☀️ / Good Night 🌙
 
@@ -49,19 +60,16 @@ Here are some ideas to get you started:
 </h3>
 
 <img align="right" alt="coding" width="370" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
+<br>
+<br>
 <p align="center">
   <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
 </p>
 
 
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantthakur278-bit&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-jha-11" /> </p> -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/siddhant-kumar-thakur-548ab3311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="siddhant-kumar-thakur-548ab331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siddhantthakur278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddhant" height="30" width="40" /></a>
 </p>
@@ -72,6 +80,7 @@ Here are some ideas to get you started:
 
 ## 🧠 Competitive Programming & Coding Dashboard
 
+<a href="https://www.linkedin.com/in/siddhant-kumar-thakur-548ab3311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=⚡+Competitive+Coder+%7C+Problem+Solver+%7C+AI+Enthusiast;🏆+LeetCode+%7C+Codeforces+%7C+CodeChef+%7C+GFG+%7C+AtCoder;💥+Striving+for+1-4+Crore+Placement!">
 </p>
