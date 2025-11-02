@@ -13,12 +13,6 @@
 Good Morning 🌞 / Good Afternoon ☀️ / Good Night 🌙
 
 
-## Hello Guys 👋
-
-### 🔭 Currently Working On
-- Building an AI chatbot 🤖
-- Designing hackathon project 🎯
-- Improving my DSA streak 📈
 
 <!--
 **siddhantthakur278-bit/siddhantthakur278-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +29,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hello Guys 👋
+
+### 🔭 Currently Working On
+- Building an AI chatbot 🤖
+- Designing hackathon project 🎯
+- Improving my DSA streak 📈
 
 🎯 Next Hackathon: 5 days left ⏳
 
