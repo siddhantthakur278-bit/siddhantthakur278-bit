@@ -27,19 +27,6 @@ Here are some ideas to get you started:
 
 🎯 Next Hackathon: 5 days left ⏳
 
-
-<div align="center"><h2 style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=(LetsGo)+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
-<!-- <h1 align="center">Hi 👋, I'm Siddhant Kumar Thakur</h1> -->
-<h3 align="center">Dive in with me in the world of craziness through web dev and problem solving 
-</h3>
-
-<img align="right" alt="coding" width="370" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-</p>
-
 ## 🧠 Today's Algorithm & Challenge
 
 <!-- ALGO-OF-THE-DAY:START -->
@@ -55,6 +42,19 @@ Here are some ideas to get you started:
 🔗 [Solve Now](#)
 <!-- LEETCODE-DAILY:END -->
 
+<div align="center"><h2 style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=(LetsGo)+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
+<!-- <h1 align="center">Hi 👋, I'm Siddhant Kumar Thakur</h1> -->
+<h3 align="center">Dive in with me in the world of craziness through web dev and problem solving 
+</h3>
+
+<img align="right" alt="coding" width="370" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+</p>
+
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantthakur278-bit&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-jha-11" /> </p> -->
@@ -65,17 +65,10 @@ Here are some ideas to get you started:
 <a href="siddhant-kumar-thakur-548ab331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siddhantthakur278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddhant" height="30" width="40" /></a>
 </p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/siddhantkthakur?theme=dark&font=Fira%20Code&ext=contest" />
-</p>
+
 
 [![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/siddhantthakur278-bit)
 
-
-### 💥 Codeforces Stats
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siddhantthakur278&theme=tokyonight&border_color=2e4058" alt="Codeforces Stats"/>
-</p>
 
 ## 🧠 Competitive Programming & Coding Dashboard
 
