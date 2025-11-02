@@ -1,5 +1,13 @@
 🌤️ Weather in Pune: `30°C` | ☀️ Sunny
+Good Morning 🌞 / Good Afternoon ☀️ / Good Night 🌙
+
+
 ## Hello Guys 👋
+
+### 🔭 Currently Working On
+- Building an AI chatbot 🤖
+- Designing hackathon project 🎯
+- Improving my DSA streak 📈
 
 <!--
 **siddhantthakur278-bit/siddhantthakur278-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+🎯 Next Hackathon: 5 days left ⏳
+
+
 <div align="center"><h2 style="text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09F7D9&width=435&lines=(LetsGo)+I'm+Siddhant+Kumar+Thakur+" alt="Typing SVG" /></h2></div>
 <!-- <h1 align="center">Hi 👋, I'm Siddhant Kumar Thakur</h1> -->
@@ -23,6 +35,25 @@ Here are some ideas to get you started:
 </h3>
 
 <img align="right" alt="coding" width="370" height="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+</p>
+
+## 🧠 Today's Algorithm & Challenge
+
+<!-- ALGO-OF-THE-DAY:START -->
+### 📘 Algorithm: Placeholder  
+🧩 Category: Placeholder  
+⚡ Description: Placeholder description.
+<!-- ALGO-OF-THE-DAY:END -->
+
+<!-- LEETCODE-DAILY:START -->
+### 💡 LeetCode Daily Challenge  
+🧩 Problem: Loading...  
+💪 Difficulty: ...  
+🔗 [Solve Now](#)
+<!-- LEETCODE-DAILY:END -->
 
 
 
@@ -34,6 +65,88 @@ Here are some ideas to get you started:
 <a href="siddhant-kumar-thakur-548ab331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siddhantthakur278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddhant" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/siddhantkthakur?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+[![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/siddhantthakur278-bit)
+
+
+### 💥 Codeforces Stats
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siddhantthakur278&theme=tokyonight&border_color=2e4058" alt="Codeforces Stats"/>
+</p>
+
+## 🧠 Competitive Programming & Coding Dashboard
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=⚡+Competitive+Coder+%7C+Problem+Solver+%7C+AI+Enthusiast;🏆+LeetCode+%7C+Codeforces+%7C+CodeChef+%7C+GFG+%7C+AtCoder;💥+Striving+for+1-4+Crore+Placement!">
+</p>
+
+---
+
+### 💥 Codeforces
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siddhantthakur278&theme=tokyonight&border_color=2e4058" alt="Codeforces Stats"/>
+</p>
+
+---
+
+### 🧩 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/siddhantkthakur?theme=dark&font=JetBrains%20Mono&border=0&radius=20" alt="LeetCode Stats"/>
+</p>
+
+---
+
+### 🍽 CodeChef
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api/card?username=YOUR_CODECHEF_USERNAME&theme=tokyonight&border_color=2e4058" alt="CodeChef Stats"/>
+</p>
+
+---
+
+### 🧮 GeeksforGeeks
+<p align="center">
+  <img src="https://gfg-stats-card.vercel.app/api?username=YOUR_GFG_USERNAME&theme=tokyonight&border_color=2e4058" alt="GFG Stats"/>
+</p>
+
+---
+
+### 🏹 AtCoder
+<p align="center">
+  <img src="https://atcoder-readme-stats.vercel.app/api?username=YOUR_ATCODER_USERNAME&theme=tokyonight&border_color=2e4058" alt="AtCoder Stats"/>
+</p>
+
+---
+
+### 🧠 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantthakur278-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🧩 DSA Progress Tracker
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=DSA+Progress&width=500&color=00C2FF&suffix=%25" />
+  <img src="https://progress-bar.dev/55/?title=AI-ML+Skill+Build&width=500&color=8844FF&suffix=%25" />
+  <img src="https://progress-bar.dev/80/?title=GitHub+Contribution&width=500&color=22DDFF&suffix=%25" />
+</p>
+
+---
+
+### 🎮 Fun Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantthakur278-bit&theme=tokyo-night" alt="Activity Graph"/>
+</p>
+
+
+⏰ Updated automatically: `{{ commit.timestamp }}`
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,16 +193,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="siddhantthakir278-bit" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddhantthakur278-bit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br><br><br><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="siddhantthakur278-bit" /></p>
-![](https://nirzak-streak-stats.vercel.app/?user=siddhantthakur278-bit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantthakur278-bit&theme=tokyonight" height="165" />
+</p>
 
 <!--Cards-->
  <br><br><<div style="display: flex; justify-content: space-between;">
@@ -104,6 +221,10 @@ Here are some ideas to get you started:
 
 ![Visitors](https://komarev.com/ghpvc/?username=siddhantthakur278-bit&label=Profile%20Views&color=0e75b6&style=flat)
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/output/pacman-contribution-graph-dark.svg">
@@ -115,43 +236,24 @@ Here are some ideas to get you started:
 
 ![Metrics](https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/main/github-metrics.svg)
 
-### 🔭 Currently Working On
-- Building an AI chatbot 🤖
-- Designing hackathon project 🎯
-- Improving my DSA streak 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantthakur278-bit&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantthakur278-bit&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantthakur278-bit&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddhantthakur278-bit&repo=siddhantthakur278-bit&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOUR_REPO)
-
 
 ![Stars](https://img.shields.io/github/stars/siddhantthakur278-bit?style=flat&logo=github)
 ![Followers](https://img.shields.io/github/followers/siddhantthakur278-bit?style=flat&logo=github)
 ![Repos](https://badges.pufler.dev/repos/siddhantthakur278-bit)
 
-
-[![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddhantthakur278-bit&repo=siddhantthakur278-bit&theme=tokyonight)](https://github.com/siddhantthakur278-bit/siddhantthakur278-bit)
+
+
+
+[![An image of @siddhantthakur278bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddhantthakur278bit)](https://holopin.io/@siddhantthakur278bit)
 
 <img src="https://raw.githubusercontent.com/siddhantthakur278-bit/siddhantthakur278-bit/main/profile-3d-contrib/profile-night-green.svg" width="700">
 
