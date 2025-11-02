@@ -1,0 +1,57 @@
+name: 🧠 Update Algorithm & LeetCode Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Today's LeetCode Problem
+        id: leetcode
+        run: |
+          response=$(curl -s -X POST https://leetcode.com/graphql \
+            -H "Content-Type: application/json" \
+            -d '{"query":"{ activeDailyCodingChallengeQuestion { date link question { title titleSlug difficulty } } }"}')
+          title=$(echo $response | jq -r '.data.activeDailyCodingChallengeQuestion.question.title')
+          slug=$(echo $response | jq -r '.data.activeDailyCodingChallengeQuestion.question.titleSlug')
+          difficulty=$(echo $response | jq -r '.data.activeDailyCodingChallengeQuestion.question.difficulty')
+          link="https://leetcode.com/problems/${slug}/"
+          echo "title=$title" >> $GITHUB_ENV
+          echo "difficulty=$difficulty" >> $GITHUB_ENV
+          echo "link=$link" >> $GITHUB_ENV
+
+      - name: Generate Random Algorithm
+        id: algo
+        run: |
+          ALGORITHMS=("Binary Search" "Merge Sort" "Quick Sort" "Dijkstra's Algorithm" "Kruskal's MST" "Prim's Algorithm" "KMP String Matching" "Floyd Warshall" "Topological Sort" "Bellman-Ford" "Kadane's Algorithm" "Tarjan’s SCC" "Binary Tree Traversal" "Heap Sort" "Union-Find (DSU)" "0/1 Knapsack DP" "Segment Tree" "Sliding Window" "Prefix Sum" "Backtracking (N-Queens)")
+          SELECTED=${ALGORITHMS[$((RANDOM % ${#ALGORITHMS[@]}))]}
+          echo "selected=$SELECTED" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          algo_section="### 📘 Algorithm: ${{ env.selected }}  
+🧩 Category: Data Structures & Algorithms  
+⚡ Description: Learn and revise this algorithm today for strong DSA fundamentals."
+
+          sed -i '/<!-- ALGO-OF-THE-DAY:START -->/,/<!-- ALGO-OF-THE-DAY:END -->/c\<!-- ALGO-OF-THE-DAY:START -->\n'"$algo_section"'\n<!-- ALGO-OF-THE-DAY:END -->' README.md
+
+          leetcode_section="### 💡 LeetCode Daily Challenge  
+🧩 Problem: ${{ env.title }}  
+💪 Difficulty: ${{ env.difficulty }}  
+🔗 [Solve Now](${{ env.link }})"
+
+          sed -i '/<!-- LEETCODE-DAILY:START -->/,/<!-- LEETCODE-DAILY:END -->/c\<!-- LEETCODE-DAILY:START -->\n'"$leetcode_section"'\n<!-- LEETCODE-DAILY:END -->' README.md
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "🧠 Auto-update today's algorithm and LeetCode problem"
+          git push
