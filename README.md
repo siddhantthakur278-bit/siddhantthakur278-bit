@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/siddhant-kumar-thakur-548ab3311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<p align="center">
 <p align="left">
 <a href="siddhant-kumar-thakur-548ab331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhant" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siddhantthakur278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Siddhant" height="30" width="40" /></a>
@@ -80,8 +82,6 @@ Here are some ideas to get you started:
 
 ## 🧠 Competitive Programming & Coding Dashboard
 
-<a href="https://www.linkedin.com/in/siddhant-kumar-thakur-548ab3311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=⚡+Competitive+Coder+%7C+Problem+Solver+%7C+AI+Enthusiast;🏆+LeetCode+%7C+Codeforces+%7C+CodeChef+%7C+GFG+%7C+AtCoder;💥+Striving+for+1-4+Crore+Placement!">
 </p>
 
