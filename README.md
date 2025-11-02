@@ -103,21 +103,21 @@ Here are some ideas to get you started:
 
 ### 🍽 CodeChef
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/card?username=YOUR_CODECHEF_USERNAME&theme=tokyonight&border_color=2e4058" alt="CodeChef Stats"/>
+  <img src="https://codechef-readme-stats.vercel.app/api/card?username=soon_flag_47&theme=tokyonight&border_color=2e4058" alt="CodeChef Stats"/>
 </p>
 
 ---
 
 ### 🧮 GeeksforGeeks
 <p align="center">
-  <img src="https://gfg-stats-card.vercel.app/api?username=YOUR_GFG_USERNAME&theme=tokyonight&border_color=2e4058" alt="GFG Stats"/>
+  <img src="https://gfg-stats-card.vercel.app/api?username=siddhanttivji&theme=tokyonight&border_color=2e4058" alt="GFG Stats"/>
 </p>
 
 ---
 
 ### 🏹 AtCoder
 <p align="center">
-  <img src="https://atcoder-readme-stats.vercel.app/api?username=YOUR_ATCODER_USERNAME&theme=tokyonight&border_color=2e4058" alt="AtCoder Stats"/>
+  <img src="https://atcoder-readme-stats.vercel.app/api?username=siddhantthakur&theme=tokyonight&border_color=2e4058" alt="AtCoder Stats"/>
 </p>
 
 ---
